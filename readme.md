@@ -2,7 +2,7 @@
 
 > Desafio de projeto proposto pelo expert Felipe Aguiar da plataforma [DIO](https://web.dio.me/) do bootcamp front-end do zero da Ri Happy. O objetivo desse projeto é criar um jogo Jo-Ken-po com o tema da franquia Yu-Gi-Oh, com HTML, CSS e JavaScript.
 
-![Texto alternativo](../js-yugioh/src/assets/imgs/banner.png)
+![Texto alternativo](src/assets/imgs/banner.png)
 
 ## 💻 Tecnologias usadas:
 <div style="display: inline_block">
