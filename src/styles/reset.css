@@ -1,8 +1,33 @@
+@font-face {
+  font-family: "ttlfont";
+  src: url("../assets/fonts/ttlfont.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "normal";
+  src: url("../assets/fonts/normal.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "win";
+  src: url("../assets/fonts/win.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "fornumber";
+  src: url("../assets/fonts/fornumber.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "cardname";
+  src: url("../assets/fonts/cardname.ttf") format("truetype");
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   border: 0;
-  font-family: "Press Start 2P", cursive;
-  user-select: none;
+  font-family: sans-serif;
 }
+
