@@ -13,11 +13,11 @@
 
 ## 🖥 Preview do Jogo:
 ![Imagem do Jogo](src/assets/video/demo.gif)
-- Venha jogar acessando [aqui nesse link do GithubPages](link)
+- Venha jogar acessando [aqui nesse link do GithubPages](https://codebytayne.github.io/js-yugioh/)
 
 ## ⚙ Execução do Jogo
 1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
-2. **GitHubPages:** pode também acessar o projeto nesse [link](link), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
+2. **GitHubPages:** pode também acessar o projeto nesse [link](https://codebytayne.github.io/js-yugioh/), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
 
 ## 🕹 Como jogar
 - O jogador jogará contra o computador.
